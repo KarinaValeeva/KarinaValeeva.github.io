@@ -106,7 +106,7 @@
   margin-left: 29px;
   margin-top: 86px;
   position: absolute;
-  background-image: url(../images/.svg);
+  background-image: url(../images/raf.svg);
   -webkit-animation: wipe 3s cubic-bezier(.2,.6,.8,.4) forwards;
   animation: wipe 3s cubic-bezier(.2,.6,.8,.4) forwards;
   display: none;
@@ -181,19 +181,19 @@
 }
 
 .text7 {
-  margin-top: 335px;
-  left: 200px;
+  width: 500px;
+  height: 100px;
+  left: 57px;
   background-repeat: no-repeat;
-  background-image: url(../images/espresso60.svg);
-
+  background-image: url(../images/text6.svg);
 }
 
 .text8 {
-  margin-top: 192px;
-  left: 198px;
+  width: 500px;
+  height: 100px;
+  left: 57px;
   background-repeat: no-repeat;
-  background-image: url(../images/americanoname.svg);
-
+  background-image: url(../images/rafcn.svg);
 }
 
 .text9 {

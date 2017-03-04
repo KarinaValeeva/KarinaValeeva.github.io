@@ -1,41 +1,45 @@
 $(function() {
 $("#espresso").animatedModal();
- $("#cappuchino").animatedModal({
-      modalTarget:'animatedModal2',
-      color:'#fff',
+$("#cappuchino").animatedModal({
+  modalTarget:'animatedModal2',
+  color:'#fff',
   });
-  $("#macchiato").animatedModal({
-       modalTarget:'animatedModal1',
-       color:'#fff',
-   });
-   $("#americano").animatedModal({
-        modalTarget:'animatedModal3',
-        color:'#fff',
-    });
-    $("#mocha").animatedModal({
-         modalTarget:'animatedModal4',
-         color:'#fff',
-     });
-     $("#latte").animatedModal({
-          modalTarget:'animatedModal5',
-          color:'#fff',
-      });
 
-      $("#breve").animatedModal({
-           modalTarget:'animatedModal6',
-           color:'#fff',
-       });
+$("#macchiato").animatedModal({
+  modalTarget:'animatedModal1',
+  color:'#fff',
+  });
 
-       $("#raf").animatedModal({
-            modalTarget:'animatedModal7',
-            color:'#fff',
-        });
+$("#americano").animatedModal({
+    modalTarget:'animatedModal3',
+    color:'#fff',
+  });
 
-        $("#glasse").animatedModal({
-             modalTarget:'animatedModal8',
-             color:'#fff',
-         });
-     })
+$("#mocha").animatedModal({
+  modalTarget:'animatedModal4',
+  color:'#fff',
+  });
+
+$("#latte").animatedModal({
+  modalTarget:'animatedModal5',
+  color:'#fff',
+  });
+
+$("#breve").animatedModal({
+  modalTarget:'animatedModal6',
+  color:'#fff',
+  });
+
+$("#raf").animatedModal({
+  modalTarget:'animatedModal7',
+  color:'#fff',
+  });
+
+$("#glasse").animatedModal({
+  modalTarget:'animatedModal8',
+  color:'#fff',
+  });
+})
 
 
 $(function() {
@@ -62,4 +66,17 @@ $(function() {
   $(".modal-content5 .button1").click(function () {
     $(".cup1 .six").show(".six")
   })
+
+  $(".modal-content6 .button1").click(function () {
+    $(".cup1 .seven").show(".seven")
+  })
+
+  $(".modal-content7 .button1").click(function () {
+    $(".cup1 .eight").show(".eight")
+  })
+
+  $(".modal-content8 .button1").click(function () {
+    $(".cup1 .nine").show(".nine")
+  })
+
 })

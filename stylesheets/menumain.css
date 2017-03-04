@@ -163,6 +163,6 @@ body {
 }
 
 #espresso p, #cappuchino p, #macchiato p, #mocha p, #americano p, #latte p, #breve p, #raf p, #glasse p {
-    color: #141414;
-    margin-top: 20px;
+  color: #141414;
+  margin-top: 20px;
 }
