@@ -25,7 +25,7 @@ $("#latte").animatedModal({
   color:'#fff',
   });
 
-$("#breve").animatedModal({
+$("#airish").animatedModal({
   modalTarget:'animatedModal6',
   color:'#fff',
   });
@@ -68,7 +68,7 @@ $(function() {
   })
 
   $(".modal-content6 .button1").click(function () {
-    $(".cup1 .seven").show(".seven")
+    $(".cup .seven").show(".seven")
   })
 
   $(".modal-content7 .button1").click(function () {
@@ -76,7 +76,7 @@ $(function() {
   })
 
   $(".modal-content8 .button1").click(function () {
-    $(".cup1 .nine").show(".nine")
+    $(".cup .nine").show(".nine")
   })
 
 })

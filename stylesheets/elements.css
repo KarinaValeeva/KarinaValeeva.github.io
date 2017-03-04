@@ -91,7 +91,7 @@
   margin-left: 29px;
   margin-top: 86px;
   position: absolute;
-  background-image: url(../images/.svg);
+  background-image: url(../images/airish.svg);
   -webkit-animation: wipe 3s cubic-bezier(.2,.6,.8,.4) forwards;
   animation: wipe 3s cubic-bezier(.2,.6,.8,.4) forwards;
   display: none;
@@ -115,12 +115,12 @@
 
 .nine {
   width: 240px;
-  height: 263px;
+  height: 280px;
   background-repeat: no-repeat;
-  margin-left: 29px;
-  margin-top: 86px;
+  margin-left: 30px;
+  margin-top: 87px;
   position: absolute;
-  background-image: url(../images/.svg);
+  background-image: url(../images/glasse.svg);
   -webkit-animation: wipe 3s cubic-bezier(.2,.6,.8,.4) forwards;
   animation: wipe 3s cubic-bezier(.2,.6,.8,.4) forwards;
   display: none;
@@ -185,7 +185,7 @@
   height: 100px;
   left: 57px;
   background-repeat: no-repeat;
-  background-image: url(../images/.svg);
+  background-image: url(../images/text7.svg);
 }
 
 .text8 {
@@ -193,14 +193,15 @@
   height: 100px;
   left: 57px;
   background-repeat: no-repeat;
-  background-image: url(../images/rafcn.svg);
+  background-image: url(../images/text8.svg);
 }
 
 .text9 {
-  margin-top: 335px;
-  left: 207px;
+  width: 500px;
+  height: 100px;
+  left: 57px;
   background-repeat: no-repeat;
-  background-image: url(../images/.svg);
+  background-image: url(../images/text9.svg);
 
 }
 
